@@ -1,2 +1,2 @@
 # CognitiveSolutionsLLC
-Cognitive Solutions LLC Website
+A website for Cognitive Solutions LLC and its knowledge.
